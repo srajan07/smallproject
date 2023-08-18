@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.infobox{
+    height: 700px;
+    width: 275px;
+    float: right;
+    
+    border: 1px solid#a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+}
+tr{
+    display: table-row;
+}
+.infoboxes{
+    height: 700px;
+    width: 275px;
+    float: left;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    border: 1px solid #a2a9b1;
+  }
+  .topnav img{
+    height:30px;
+    margin-left: 20px;
+  }
